@@ -2,3 +2,5 @@ langchain
 python-dotenv
 langchain-openai
 pydantic
+langchain_community
+ddgs
